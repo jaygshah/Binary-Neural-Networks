@@ -1,11 +1,6 @@
 '''
 Python Version: 3.6.5
 This file implements a multi layer neural network for a multiclass classifier
-Hemanth Venkateswara
-hkdv1@asu.edu
-Oct 2018
-
-Modified by 
 Jay Shah : ASU-ID: 1215102837 (jgshah1@asu.edu)
 Kunal Suthar : ASU-ID: 1215112535 (ksuthar1@asu.edu)
 '''
