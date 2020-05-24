@@ -1,8 +1,7 @@
 '''
 Python Version: 3.6.5
 This file implements a multi layer neural network for a multiclass classifier
-Jay Shah : ASU-ID: 1215102837 (jgshah1@asu.edu)
-Kunal Suthar : ASU-ID: 1215112535 (ksuthar1@asu.edu)
+@uthor: Jay Shah [https://jaygshah.github.io/]
 '''
 import numpy as np
 from load_mnist import mnist
